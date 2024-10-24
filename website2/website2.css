@@ -1,0 +1,260 @@
+.header{
+    display: flex;
+}
+.header li{
+    display: inline;
+    margin: 13px;
+}
+.header ul{
+    margin: 0px;
+    margin-left: 250px;
+}
+.main{
+    background-image:url(pexels-lisa-fotios-734973.jpg);
+    width: 100%;
+    height: 450px;
+}
+.main h1{
+    color: white;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-top: 8px;
+}
+.main h3{
+    color: white;
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.main h4{
+    color: white;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-top: -15px;
+}
+.main button{
+    padding: 18px 40px;
+    border-radius: 10px;
+    color: cadetblue;
+    border: none;
+    margin-left: 200px;
+    margin: 20px;
+    margin-left: 200px;
+}
+.main2{
+ text-align: center;
+ border:1px solid white;
+ width:70%;
+ position: relative;
+ border-radius: 90px;
+ background-color:white;
+ margin-left:200px;
+ margin-top:-100px;
+}
+.main2 h2{
+    color: cadetblue;
+    font-size: 30px;
+}
+.main2 p{
+    font-size: 17px;
+}
+.div1{
+    color:cadetblue;
+    margin: 10px;
+    margin-left: 250px;
+    font-size: 35px;
+}
+
+.main3{
+    display: flex;
+}
+.main3 img{
+    margin-left: 30px;
+    margin-left: 380px;
+    background-color: #0891ac;
+    padding-top: 30px;
+    padding-right: 130px;
+    padding-bottom: 170px;
+    padding-left: 130px;
+}
+#main img{
+    width:320px;
+    height: 350px;
+    border-radius: 20px;
+}
+.sec-a1{
+    margin-left: 70px;
+}
+.sec-a1 button {
+    border:none;
+    color: black;
+    display: inline;
+    font-size: 23px;
+    margin: 15px 0px;
+    border-bottom: 2px solid black;
+    background: none;
+    /* margin-left: 100px; */
+}
+.sec-a2{ 
+    /* margin-left: 10px; */
+} 
+.sec-a2 h5{
+    /* margin-left: 620px; */
+    margin-top: -160px;
+    color: white;
+    font-size: 20px;
+}
+.sec-a2 p{
+    margin-left: 540px;
+    margin-top: -20px;
+    color: white;
+    font-size: 15px;
+}
+.sec-a2 button{
+    padding: 13px 30px;
+    margin-left: 620px;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    color: #0891ac;
+}
+.main4{
+    display: flex;
+}
+.sec-a3 img{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.main4 h2{
+    font-size: 35px;
+    margin-top: 130px;
+    margin-left: 200px;
+    color: #0891ac;
+}
+.main4 p{
+    margin-left: 200px;
+}
+.main4 button{
+    padding: 12px 20px;
+    border: none;
+    background-color:  #0891ac;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-left: 200px;
+}
+.main5{
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    margin-top: 30px;
+    color: #0891ac;
+}
+.main6{
+    display: flex;
+    margin: 40px;
+}
+.main6 img{
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.sec-b1{
+    border-left: 2px solid black;
+    margin-left: 100px;
+    padding: 20px;
+}
+.sec-a4 h1{
+    color: #0891ac;
+    font-size: 35px;
+    background-color: white;
+}
+.sec-a4 h2{
+    color: #0891ac;
+    font-size: 28px;
+}
+.sec-a4 p{
+    font-size: 18px;
+}
+.sec-a4 button{
+    padding: 12px 20px;
+    border: none;
+    background-color:  #0891ac;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-left: 120px;
+}
+.main7{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 40px;
+}
+.main7 img{
+    margin-left: 80px;
+}
+.main8{
+    padding: 100px;
+}
+.sec-a5{
+    text-align: center;
+}
+.sec-a5 h1{
+    font-size: 38px;
+    color: #0891ac; 
+}
+.sec-a5 button{
+    padding: 12px 20px;
+    border: none;
+    background-color:  #0891ac;
+    color: white;
+    font-size: 18px;
+    border-radius: 15px;
+}
+.sec-a6{
+    display: flex;
+}
+.sec-a6 img{
+    margin-top: 50px;
+    margin-left:195px;
+}
+.sec-a7{
+    display: flex;
+}
+.sec-a7 .b1{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.main9{
+    display: flex;
+    background-color: #0891ac;
+    color: white;
+    margin-top: -40px;
+}
+.main9 div{
+    margin: 63px;
+    margin-top: 20px;
+}
+.main9 li{
+    display: block;
+    font-size: 18px;
+}
+.sec-a8 h1{
+    display: flex;
+    margin-top: 236px;
+    margin-left: -160px;
+}
+.sec-a8 i{
+    font-size: 40px;
+    margin: 4px;
+}
+.main10{
+    background-color: black;
+    color: gray;
+    padding: 15px;
+}
+.main10 p{
+    margin: 0px;
+    margin-left: 50px;
+}
